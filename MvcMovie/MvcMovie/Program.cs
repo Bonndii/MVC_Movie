@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 using MvcMovie.Data;
 using MvcMovie.Models;
 using System;
+using Elmah.Io.Extensions.Logging;
 
 namespace MvcMovie
 {
@@ -38,6 +39,12 @@ namespace MvcMovie
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                })
+                .ConfigureLogging((ctx, logging) =>
+                {
+                    logging.AddConfiguration(ctx.Configuration.GetSection("Logging"));
+                    logging.Services.Configure<ElmahIoProviderOptions>(ctx.Configuration.GetSection("ElmahIo"));
+                    logging.AddElmahIo();
                 });
     }
 }

@@ -38,6 +38,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Elmah.Io.AspNetCore.ExtensionsLogging": {
+              "target": "Package",
+              "version": "[3.9.12, )"
+            },
+            "Elmah.Io.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.9.12, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.5, )"

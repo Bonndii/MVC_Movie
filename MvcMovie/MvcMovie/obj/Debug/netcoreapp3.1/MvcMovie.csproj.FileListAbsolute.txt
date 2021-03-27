@@ -17,8 +17,6 @@ E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyI
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
-E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -33,8 +31,6 @@ E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.dll
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
-E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
-E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -151,8 +147,6 @@ E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalys
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
-E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
 E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
@@ -169,3 +163,9 @@ E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Elmah.Io.Client.dll
+E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Elmah.Io.Extensions.Logging.dll
+E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\C# Programs\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Elmah.Io.AspNetCore.ExtensionsLogging.dll
+E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+E:\C# Programs\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
